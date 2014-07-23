@@ -13,4 +13,8 @@
 	Scientific Director, PDX and Cancer Avatar Program
 
 ## Students
-
+	Robyn Ball, Ph.D.
+	Bioinformatics Analyst
+	Carter Lab
+	The Jackson Laboratory
+	 -- I would like an introduction to the various tools that are available and where to go for help.
