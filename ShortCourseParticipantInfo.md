@@ -17,4 +17,4 @@
 	Bioinformatics Analyst
 	Carter Lab
 	The Jackson Laboratory
-	 -- I would like an introduction to the various tools that are available and where to go for help.
+	 -- I would like an introduction to the various tools that are available.
